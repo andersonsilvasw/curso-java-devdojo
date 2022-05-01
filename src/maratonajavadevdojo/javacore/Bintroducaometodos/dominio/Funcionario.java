@@ -1,6 +1,6 @@
 package maratonajavadevdojo.javacore.Bintroducaometodos.dominio;
 
-public class Employee {
+public class Funcionario {
     public String name;
     public  int age;
     public  double[] salaries;
