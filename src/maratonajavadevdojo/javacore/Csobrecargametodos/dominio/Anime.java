@@ -43,7 +43,7 @@ public class Anime {
     public String getTipo() {
         return this.tipo;
     }
-    public void setEpisodeos(int episodios) {
+    public void setEpisodios(int episodios) {
         this.episodios = episodios;
     }
     public int getEpisodios() {
