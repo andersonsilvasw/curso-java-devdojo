@@ -7,7 +7,7 @@ public class Aula08CalculoImc {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o seu peso: (KG)");
         double massa = scanner.nextDouble();
-        System.out.println("Digite a sua altura: (MT");
+        System.out.println("Digite a sua altura: (MT)");
         double altura = scanner.nextDouble();
         double imc = massa / (altura * altura);
         System.out.println("Seu IMC é: " +imc);
