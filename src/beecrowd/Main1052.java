@@ -46,8 +46,8 @@ public class Main1052 {
             case 12:
                 System.out.println("December");
                 break;
-            default:
-                System.out.println("dígito inválido, tente novamente.");
+            //default:
+                //System.out.println("dígito inválido, tente novamente.");
         }
         sc.close();
     }
